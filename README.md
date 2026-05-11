@@ -1,5 +1,5 @@
 # VerveStacks Model Generation Notes - IDN
-**Generated:** 2026-05-08 16:47:00
+**Generated:** 2026-05-11 13:42:06
 
 
 ## Model Calibration 2022
@@ -33,12 +33,12 @@
 | **Fuel Type** | **Threshold** | **Plants Above Threshold** | **Total Capacity** | **Wtd Avg Efficiency** |
 |---------------|---------------|----------------------------|--------------------|-----------------|
 | ⚫ **Coal** | 140 MW | 4/4 plants | 4.86 GW | 34.5% |
-| 🔥 **Gas** | 140 MW | 16/20 plants | 9.16 GW | 49.2% |
+| 🔥 **Gas** | 140 MW | 16/20 plants | 9.17 GW | 49.2% |
 | 🌋 **Geothermal** | 10 MW | 39/39 plants | 2.78 GW | 100% |
 | 💧 **Hydro Power** | 10 MW | 33/33 plants | 14.6 GW | 100% |
 | ⚛️ **Nuclear** | — | 7/7 plants | 3.5 GW | 100% |
 | ☀️ **Solar** | 200 MW | 18/26 plants | 16.5 GW | 100% |
-| 💨 **Windon** | 200 MW | 3/12 plants | 1.52 GW | 100% |
+| 💨 **Windon** | 200 MW | 3/12 plants | 1.53 GW | 100% |
 | 🔋 **Pumped Storage** | 10 MW | 3/3 plants | 2.4 GW | 100% |
 
 
@@ -246,13 +246,13 @@ grid cells into manageable clusters while preserving essential resource characte
 
 #### **Clustering Overview**
 
-| **Clustering Metric** | **Value** | **Description** |
-|----------------------|-----------|-----------------|
-| **Grid Cells Processed** | 4360 | 50×50km renewable energy grid cells |
-| **Clusters Generated** | 74 | Dynamically determined using n = cells^0.6 |
-| **Average Cluster Size** | 17.7 grid cells | Mean grid cells per cluster |
-| **Cluster Size Range** | 5 to 48 grid cells | Variation in cluster composition |
-| **Grid Definition** | Infrastructure-based transmission buses | Transmission infrastructure basis |
+| **Technology** | **Grid Cells** | **Clusters** | **Avg Cluster Size** | **Size Range** |
+|----------------|---------------|-------------|---------------------|----------------|
+| ☀️ **Solar PV** | 1308 | 74 | 17.7 cells | 5 to 48 cells |
+| 💨 **Wind Onshore** | 395 | 36 | 11.0 cells | 2 to 36 cells |
+| 🌊 **Wind Offshore** | 375 | 35 | 10.7 cells | 3 to 32 cells |
+
+**Grid Definition**: Infrastructure-based transmission buses
 
 #### **Spatial Clustering Approach**
 
