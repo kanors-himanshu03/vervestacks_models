@@ -1,0 +1,30 @@
+# Temporal Modelling — IDN
+
+---
+
+This model employs sophisticated **statistical scenario generation** to identify critical periods
+in high-renewable energy systems: **scarcity** (renewable shortfall days), **surplus** (generation
+excess days), and **volatile** (high-variability days) — each captured as representative days to
+size backup capacity, storage, and flexible resources.
+
+*→ [Stress period identification methodology](https://github.com/VerveStacks/vervestacks/blob/main/docs/METHODOLOGY_DOCUMENTATION.md#temporal-modeling--stress-period-identification)*
+
+---
+
+## Renewable Energy Analysis Overview
+
+<div align="center">
+  <img src="../VerveStacks_IDN_grids_kan/timeslice_analysis/re_analysis_summary_IDN.svg"
+       alt="Renewable Energy Analysis Summary" style="max-width:100%;">
+</div>
+
+---
+
+## Aggregated Days and Hours
+
+Up to 6 seasons × 8 day-night periods = 48 base timeslices:
+
+<div align="center">
+  <img src="../VerveStacks_IDN_grids_kan/timeslice_analysis/aggregation_justification_IDN_ts_048.svg"
+       alt="Aggregated Slices Clustering" style="max-width:100%;">
+</div>
