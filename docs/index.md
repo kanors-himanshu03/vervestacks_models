@@ -1,7 +1,7 @@
 # IDN — VerveStacks ESOM Model
 
 !!! info "Model Run"
-    **Generated:** 2026-05-12 17:07:42  |  **ISO Code:** `IDN`
+    **Generated:** 2026-05-12 17:16:09  |  **ISO Code:** `IDN`
 
 ---
 
@@ -39,7 +39,7 @@
 | **Fuel Type** | **Threshold** | **Plants Above Threshold** | **Total Capacity** | **Wtd Avg Efficiency** |
 |---------------|---------------|----------------------------|--------------------|-----------------|
 | ⚫ **Coal** | 140 MW | 4/4 plants | 4.86 GW | 34.5% |
-| 🔥 **Gas** | 140 MW | 16/20 plants | 9.16 GW | 49.2% |
+| 🔥 **Gas** | 140 MW | 16/20 plants | 9.17 GW | 49.2% |
 | 🌋 **Geothermal** | 10 MW | 39/39 plants | 2.78 GW | 100% |
 | 💧 **Hydro Power** | 10 MW | 33/33 plants | 14.6 GW | 100% |
 | ⚛️ **Nuclear** | — | 7/7 plants | 3.5 GW | 100% |
