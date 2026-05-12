@@ -39,7 +39,7 @@ reflect actual operational stress rather than arbitrary percentages.
 ## Monthly Availability Patterns
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/source_data/IDN_hydro_monthly_profile.png"
+  <img src="assets/IDN_hydro_monthly_profile.png"
        alt="Monthly Hydro Availability"
        style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
   <p><em>Monthly hydro availability — P10/P50/P90 future scenarios vs. historical patterns</em></p>
@@ -48,7 +48,7 @@ reflect actual operational stress rather than arbitrary percentages.
 ## Long-term Trajectory
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/source_data/IDN_hydro_annual_trajectory.png"
+  <img src="assets/IDN_hydro_annual_trajectory.png"
        alt="Annual Hydro Trajectory"
        style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
   <p><em>Annual hydro trajectories: historical (2000–2023) → future scenarios (2025–2050)</em></p>

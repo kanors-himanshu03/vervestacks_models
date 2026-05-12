@@ -38,7 +38,7 @@ The supply curves reveal the economic characteristics of renewable energy deploy
 - **Original vs Land-use Adjusted** — Impact of conservative overlap management
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/renewable_energy/supply_curves_IDN.svg"
+  <img src="assets/supply_curves_IDN.svg"
        alt="Renewable Energy Supply Curves" style="max-width:100%;">
 </div>
 
@@ -67,7 +67,7 @@ cells drive the representative generation shape. Only economically viable grid c
 ### Solar PV Clustering
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/source_data/clustering_results_IDN_solar.png"
+  <img src="assets/clustering_results_IDN_solar.png"
        alt="Solar PV Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
   <p><em>Solar PV: 74 clusters from 1308 grid cells</em></p>
 </div>
@@ -75,7 +75,7 @@ cells drive the representative generation shape. Only economically viable grid c
 ### Wind Onshore Clustering
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/source_data/clustering_results_IDN_wind_onshore.png"
+  <img src="assets/clustering_results_IDN_wind_onshore.png"
        alt="Onshore Wind Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
   <p><em>Wind Onshore: 36 clusters from 395 grid cells</em></p>
 </div>
@@ -83,7 +83,7 @@ cells drive the representative generation shape. Only economically viable grid c
 ### Wind Offshore Clustering
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/source_data/clustering_results_IDN_wind_offshore.png"
+  <img src="assets/clustering_results_IDN_wind_offshore.png"
        alt="Offshore Wind Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
   <p><em>Wind Offshore: 35 clusters from 375 grid cells</em></p>
 </div>

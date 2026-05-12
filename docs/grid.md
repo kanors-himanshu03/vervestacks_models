@@ -5,7 +5,7 @@
 ### Grid Network Visualization
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/grid_analysis/VerveStacks_IDN_grids_kan/grid_analysis/IDN_network_visualization.svg"
+  <img src="assets/VerveStacks_IDN_grids_kan/grid_analysis/IDN_network_visualization.svg"
        alt="Grid Network Visualization"
        style="max-width:100%; border:2px solid #ddd; border-radius:8px;">
   <p><em>Transmission infrastructure, power plants, and renewable energy zones</em></p>
@@ -53,7 +53,7 @@ Electricity demand shares are distributed across the transmission network using
 | **Demand-Region Clustering** | 14 | 1.0 | Population-weighted clusters mapped to nearest buses |
 
 <div align="center">
-  <img src="../VerveStacks_IDN_grids_kan/grid_analysis/IDN_demand_bus_verification.png"
+  <img src="assets/IDN_demand_bus_verification.png"
        alt="Demand-region to bus mapping verification" style="max-width:100%;">
 </div>
 
