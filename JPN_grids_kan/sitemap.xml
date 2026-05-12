@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/</loc>
+         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/index.html</loc>
          <lastmod>2026-05-12</lastmod>
     </url>
     <url>
-         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/grid/</loc>
+         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/grid.html</loc>
          <lastmod>2026-05-12</lastmod>
     </url>
     <url>
-         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/hydro/</loc>
+         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/hydro.html</loc>
          <lastmod>2026-05-12</lastmod>
     </url>
     <url>
-         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/renewables/</loc>
+         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/renewables.html</loc>
          <lastmod>2026-05-12</lastmod>
     </url>
     <url>
-         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/scenarios/</loc>
+         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/scenarios.html</loc>
          <lastmod>2026-05-12</lastmod>
     </url>
     <url>
-         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/timeslices/</loc>
+         <loc>https://kanors-himanshu03.github.io/vervestacks_models/JPN_grids_kan/timeslices.html</loc>
          <lastmod>2026-05-12</lastmod>
     </url>
 </urlset>
