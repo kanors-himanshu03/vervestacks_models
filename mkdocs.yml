@@ -1,8 +1,8 @@
-site_name: "VerveStacks — IDN"
-site_description: "ESOM model documentation for IDN"
-site_url: "https://kanors-himanshu03.github.io/vervestacks_models/IDN/"
+site_name: "VerveStacks — IDN_grids_kan"
+site_description: "ESOM model documentation for IDN_grids_kan"
+site_url: "https://kanors-himanshu03.github.io/vervestacks_models/IDN_grids_kan/"
 docs_dir: docs
-site_dir: site/IDN
+site_dir: site/IDN_grids_kan
 
 theme:
   name: material
