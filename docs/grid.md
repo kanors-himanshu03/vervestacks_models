@@ -5,7 +5,7 @@
 ### Grid Network Visualization
 
 <div align="center">
-  <img src="assets/VerveStacks_JPN_grids_kan/grid_analysis/JPN_network_visualization.svg"
+  <img src="assets/JPN_network_visualization.svg"
        alt="Grid Network Visualization"
        style="max-width:100%; border:2px solid #ddd; border-radius:8px;">
   <p><em>Transmission infrastructure, power plants, and renewable energy zones</em></p>
