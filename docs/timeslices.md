@@ -7,7 +7,7 @@ in high-renewable energy systems: **scarcity** (renewable shortfall days), **sur
 excess days), and **volatile** (high-variability days) — each captured as representative days to
 size backup capacity, storage, and flexible resources.
 
-*→ [Stress period identification methodology](https://github.com/VerveStacks/vervestacks/blob/main/docs/METHODOLOGY_DOCUMENTATION.md#temporal-modeling--stress-period-identification)*
+*→ [Stress-based timeslice design](https://vervestacks.readthedocs.io/en/methods/stress-timeslices.html)*
 
 ---
 

@@ -32,14 +32,14 @@
 
 | Spatial Metric | Value | Detail |
 |----------------|-------|--------|
-| **Grid Cells** | 422 | 50×50 km renewable energy zones |
+| **Grid Cells** | 1158 | 50×50 km renewable energy zones |
 | **Solar / Wind Onshore Zones** | 422 | Grid cells with solar and onshore wind potential |
 | **Wind Offshore Zones** | 0 | Grid cells with offshore wind potential |
 | **Zone–Bus Mappings** | 422 | REZoning zones assigned to transmission buses |
 
 **Commodity naming:** `elc_spv_<ISO3>_<cluster_id>` · `elc_won_<ISO3>_<cluster_id>` · `elc_wof_<ISO3>_<cluster_id>`
 
-*→ [Grid processing pipeline details](https://github.com/VerveStacks/vervestacks/blob/main/docs/METHODOLOGY_DOCUMENTATION.md#grid-processing-pipeline)*
+*→ [Grid processing pipeline details](https://vervestacks.readthedocs.io/en/latest/methods/grid-representation.html#transmission-line-modeling)*
 
 ---
 

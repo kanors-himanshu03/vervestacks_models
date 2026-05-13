@@ -24,7 +24,7 @@ the less competitive technology receives a reduced share of the overlapping area
 curves represent **deployable potential** rather than theoretical maximums, with no double-counting
 across technologies.
 
-*→ [Overlap resolution methodology](https://github.com/VerveStacks/vervestacks/blob/main/docs/METHODOLOGY_DOCUMENTATION.md#land-use-conflict-resolution)*
+*→ [Land-use conflict resolution methodology](https://vervestacks.readthedocs.io/en/latest/methods/renewable-characterization.html#stage-1-land-use-conflict-resolution)*
 
 ---
 
@@ -60,7 +60,7 @@ survive the aggregation. Each cluster carries a capacity-weighted hourly profile
 cells drive the representative generation shape. Only economically viable grid cells enter the process
 (Solar PV > 5% CF, Onshore Wind > 8% CF).
 
-*→ [Clustering algorithm details](https://github.com/VerveStacks/vervestacks/blob/main/docs/METHODOLOGY_DOCUMENTATION.md#renewable-energy-clustering)*
+*→ [Clustering algorithm details](https://vervestacks.readthedocs.io/en/latest/methods/renewable-characterization.html#stage-2-renewable-resource-clustering)*
 
 ---
 

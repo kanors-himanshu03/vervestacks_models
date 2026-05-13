@@ -19,7 +19,7 @@ regimes, and apply climate trend adjustments — generating 100+ probabilistic f
 thresholds are anchored to each country's bottom 20% of historical capacity factors, ensuring they
 reflect actual operational stress rather than arbitrary percentages.
 
-*→ [Scenario generation methodology](https://github.com/VerveStacks/vervestacks/blob/main/docs/METHODOLOGY_DOCUMENTATION.md#hydro-availability-scenario-generation)*
+*→ [Hydro availability scenario methodology](https://vervestacks.readthedocs.io/en/latest/methods/hydro-availability-scenarios.html#hydro-availability-scenarios)*
 
 ---
 
