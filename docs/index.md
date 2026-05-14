@@ -1,7 +1,7 @@
 # JPN — VerveStacks ESOM Model
 
 !!! info "Model Run"
-    **Generated:** 2026-05-13 18:55:27  |  **ISO Code:** `JPN`
+    **Generated:** 2026-05-14 15:19:17  |  **ISO Code:** `JPN`
 
 ---
 
@@ -26,7 +26,7 @@
 | 🌱 **Bioenergy** | 50 MW | 70/129 plants | 6.64 GW | 0.075 GW | 28.4% |
 | ⚫ **Coal** | 490 MW | 58/174 plants | 55 GW | 1.08 GW | 35.3% |
 | 🔥 **Gas** | 490 MW | 91/168 plants | 89 GW | — | 44.4% |
-| 🌋 **Geothermal** | 60 MW | 1/30 plants | 0.668 GW | — | 100% |
+| 🌋 **Geothermal** | 60 MW | 1/30 plants | 0.669 GW | — | 100% |
 | 💧 **Hydro Power** | 60 MW | 111/164 plants | 26.5 GW | — | 70% |
 | ⚛️ **Nuclear** | — | 35/35 plants | 14.4 GW | 21.5 GW | 100% |
 | 🛢️ **Oil** | 490 MW | 10/29 plants | 9.86 GW | 1.15 GW | 29.2% |
@@ -92,8 +92,8 @@ available. Grid locations of all these units are preserved.
 | **Total Plants Processed** | 1331 plants in database |
 | **Missing Capacity Added** | - **IRENA data**:
   - **hydro**: 11.23 GW
-  - **bioenergy**: 1.12 GW
   - **windon**: 0.71 GW
+  - **bioenergy**: 1.12 GW
   - **solar**: 54.33 GW |
 
 ---
