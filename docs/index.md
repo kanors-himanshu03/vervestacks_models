@@ -1,7 +1,7 @@
-# JPN — VerveStacks ESOM Model
+# JPN — VerveStacks Model
 
-!!! info "Model Run"
-    **Generated:** 2026-05-14 15:33:17  |  **ISO Code:** `JPN`
+!!! info "Model Info"
+    **Generated:** 2026-05-14 15:41:49  |  **ISO Code:** `JPN`
 
 ---
 
@@ -92,9 +92,9 @@ available. Grid locations of all these units are preserved.
 | **Total Plants Processed** | 1331 plants in database |
 | **Missing Capacity Added** | - **IRENA data**:
   - **hydro**: 11.23 GW
-  - **solar**: 54.33 GW
   - **bioenergy**: 1.12 GW
-  - **windon**: 0.71 GW |
+  - **windon**: 0.71 GW
+  - **solar**: 54.33 GW |
 
 ---
 
