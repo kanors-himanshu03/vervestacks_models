@@ -1,7 +1,7 @@
 # MYS — VerveStacks Model
 
 !!! info "Model Info"
-    **Generated:** 2026-05-19 16:33:32  |  **ISO Code:** `MYS`
+    **Generated:** 2026-05-20 13:39:30  |  **ISO Code:** `MYS`
 
 ---
 
@@ -80,8 +80,8 @@ available. Grid locations of all these units are preserved.
 | **Plants Above Threshold** | 106 individual plants tracked |
 | **Total Plants Processed** | 189 plants in database |
 | **Missing Capacity Added** | - **IRENA data**:
-  - **hydro**: 0.07 GW
-  - **bioenergy**: 0.94 GW |
+  - **bioenergy**: 0.94 GW
+  - **hydro**: 0.07 GW |
 
 ---
 
