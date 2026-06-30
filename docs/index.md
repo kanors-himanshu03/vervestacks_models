@@ -1,7 +1,7 @@
 # POL — VerveStacks Model
 
 !!! info "Model Info"
-    **Generated:** 2026-06-30 16:56:31  |  **ISO Code:** `POL`
+    **Generated:** 2026-06-30 17:51:42  |  **ISO Code:** `POL`
 
 ---
 
@@ -88,9 +88,9 @@ available. Grid locations of all these units are preserved.
 | **Plants Above Threshold** | 234 individual plants tracked |
 | **Total Plants Processed** | 472 plants in database |
 | **Missing Capacity Added** | - **IRENA data**:
-  - **solar**: 9.8 GW
   - **hydro**: 0.31 GW
   - **bioenergy**: 0.37 GW
+  - **solar**: 9.8 GW
 - **EMBER data**:
   - **coal**: 1.1 GW
   - **gas**: 0.02 GW |
