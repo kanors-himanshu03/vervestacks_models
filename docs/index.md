@@ -1,7 +1,7 @@
 # IND — VerveStacks Model
 
 !!! info "Model Info"
-    **Generated:** 2026-08-24 15:43:59  |  **ISO Code:** `IND`
+    **Generated:** 2026-08-25 16:46:26  |  **ISO Code:** `IND`
 
 ---
 
