@@ -1,4 +1,4 @@
-# Renewable Energy Potential — IND
+# Renewable Energy Potential — SRB
 
 ---
 
@@ -38,7 +38,7 @@ The supply curves reveal the economic characteristics of renewable energy deploy
 - **Original vs Land-use Adjusted** — Impact of conservative overlap management
 
 <div align="center">
-  <img src="assets/supply_curves_IND.svg"
+  <img src="assets/supply_curves_SRB.svg"
        alt="Renewable Energy Supply Curves" style="max-width:100%;">
 </div>
 
@@ -48,11 +48,11 @@ The supply curves reveal the economic characteristics of renewable energy deploy
 
 | Technology | Grid Cells | Clusters | Avg Cluster Size | Size Range |
 |------------|-----------|---------|-----------------|------------|
-| ☀️ **Solar PV** | 1431 | 78 | 18.3 cells | 7 to 36 cells |
-| 💨 **Wind Onshore** | 1114 | 67 | 16.6 cells | 4 to 43 cells |
-| 🌊 **Wind Offshore** | 202 | 24 | 8.4 cells | 4 to 14 cells |
+| ☀️ **Solar PV** | 127 | 18 | 7.1 cells | 3 to 14 cells |
+| 💨 **Wind Onshore** | 84 | 14 | 6.0 cells | 2 to 13 cells |
+| 🌊 **Wind Offshore** | N/A | N/A | N/A cells | N/A cells |
 
-**Grid Definition:** Grid definition: kan10
+**Grid Definition:** Infrastructure-based transmission buses
 
 Clustering preserves critical **geographic hedging** effects: spatial variations in wind patterns,
 east-west and north-south solar resource differences, and distance-based grid connection costs all
@@ -67,23 +67,23 @@ cells drive the representative generation shape. Only economically viable grid c
 ### Solar PV Clustering
 
 <div align="center">
-  <img src="assets/clustering_results_IND_solar.png"
+  <img src="assets/clustering_results_SRB_solar.png"
        alt="Solar PV Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
-  <p><em>Solar PV: 78 clusters from 1431 grid cells</em></p>
+  <p><em>Solar PV: 18 clusters from 127 grid cells</em></p>
 </div>
 
 ### Wind Onshore Clustering
 
 <div align="center">
-  <img src="assets/clustering_results_IND_wind_onshore.png"
+  <img src="assets/clustering_results_SRB_wind_onshore.png"
        alt="Onshore Wind Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
-  <p><em>Wind Onshore: 67 clusters from 1114 grid cells</em></p>
+  <p><em>Wind Onshore: 14 clusters from 84 grid cells</em></p>
 </div>
 
 ### Wind Offshore Clustering
 
 <div align="center">
-  <img src="assets/clustering_results_IND_wind_offshore.png"
+  <img src="assets/clustering_results_SRB_wind_offshore.png"
        alt="Offshore Wind Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
-  <p><em>Wind Offshore: 24 clusters from 202 grid cells</em></p>
+  <p><em>Wind Offshore: N/A clusters from N/A grid cells</em></p>
 </div>

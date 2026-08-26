@@ -1,8 +1,8 @@
-site_name: "VerveStacks — IND_grids_kan10"
-site_description: "ESOM model documentation for IND_grids_kan10"
-site_url: "https://kanors-himanshu03.github.io/vervestacks_models/IND_grids_kan10/"
+site_name: "VerveStacks — SRB_grids_kan"
+site_description: "ESOM model documentation for SRB_grids_kan"
+site_url: "https://kanors-himanshu03.github.io/vervestacks_models/SRB_grids_kan/"
 docs_dir: docs
-site_dir: site/IND_grids_kan10
+site_dir: site/SRB_grids_kan
 use_directory_urls: false
 
 extra_css:
