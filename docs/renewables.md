@@ -48,9 +48,9 @@ The supply curves reveal the economic characteristics of renewable energy deploy
 
 | Technology | Grid Cells | Clusters | Avg Cluster Size | Size Range |
 |------------|-----------|---------|-----------------|------------|
-| ☀️ **Solar PV** | 1431 | 78 | 18.3 cells | 7 to 36 cells |
-| 💨 **Wind Onshore** | 1114 | 67 | 16.6 cells | 4 to 43 cells |
-| 🌊 **Wind Offshore** | 202 | 24 | 8.4 cells | 4 to 14 cells |
+| ☀️ **Solar PV** | 1431 | 78 | 18.3 cells | 8 to 34 cells |
+| 💨 **Wind Onshore** | 1095 | 66 | 16.6 cells | 6 to 40 cells |
+| 🌊 **Wind Offshore** | 209 | 24 | 8.7 cells | 2 to 16 cells |
 
 **Grid Definition:** Grid definition: kan10
 
@@ -77,7 +77,7 @@ cells drive the representative generation shape. Only economically viable grid c
 <div align="center">
   <img src="assets/clustering_results_IND_wind_onshore.png"
        alt="Onshore Wind Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
-  <p><em>Wind Onshore: 67 clusters from 1114 grid cells</em></p>
+  <p><em>Wind Onshore: 66 clusters from 1095 grid cells</em></p>
 </div>
 
 ### Wind Offshore Clustering
@@ -85,5 +85,5 @@ cells drive the representative generation shape. Only economically viable grid c
 <div align="center">
   <img src="assets/clustering_results_IND_wind_offshore.png"
        alt="Offshore Wind Clustering" style="max-width:100%; border:1px solid #ddd; border-radius:8px;">
-  <p><em>Wind Offshore: 24 clusters from 202 grid cells</em></p>
+  <p><em>Wind Offshore: 24 clusters from 209 grid cells</em></p>
 </div>

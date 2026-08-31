@@ -24,7 +24,7 @@
 
 | Integration Type | Count | Description |
 |------------------|-------|-------------|
-| **Plants Mapped to Buses** | 4513 | GEM power plants assigned to grid locations |
+| **Plants Mapped to Buses** | 6172 | GEM power plants assigned to grid locations |
 
 ---
 
@@ -32,7 +32,7 @@
 
 | Spatial Metric | Value | Detail |
 |----------------|-------|--------|
-| **Grid Cells** | 2747 | 50×50 km renewable energy zones |
+| **Grid Cells** | 2735 | 50×50 km renewable energy zones |
 | **Solar / Wind Onshore Zones** | 1640 | Grid cells with solar and onshore wind potential |
 | **Wind Offshore Zones** | 235 | Grid cells with offshore wind potential |
 | **Zone–Bus Mappings** | 1876 | REZoning zones assigned to transmission buses |
